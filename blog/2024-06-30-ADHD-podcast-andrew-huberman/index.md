@@ -1,14 +1,16 @@
 ---
-slug: adhd-andrew-huberman-podcast
-title: Summmary of ADHD podcast by Andrew Huberman
+slug: adhd-andrew-huberman-podcast-summary
+title: Summary of ADHD podcast by Andrew Huberman
 authors: [hari]
 tags: [ADHD]
 ---
 
-## Source
+I have read a lot about my condition and this is a valuable resource regarding the inner working of a ADHD brain. Thanks to [Andrew Huberman](https://www.hubermanlab.com/) for the wonderful studies he have done in the concepts of ADHD. Truly admiring his great works.
 
 Title: **ADHD and How any can improve their focus** <br/>
 Video: [**ADHD & How Anyone Can Improve Their Focus| Youtube**](https://youtu.be/hFL6qRIJZ_Y)
+
+<!--truncate-->
 
 ## How is ADHD ?
 
