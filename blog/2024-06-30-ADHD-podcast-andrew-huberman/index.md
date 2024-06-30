@@ -83,6 +83,8 @@ Some children who do not have access to any of these drugs can be seen easting t
 
 Thus giving dopamine energic compounds to people with ADHD will somehow increase the ability to focus.
 
+## Drugs
+
 So major drugs developed and marketed by pharmaceutical companies are
 
 1. Ritalin
@@ -104,6 +106,25 @@ Addrell is now the most prescribed drug for treating ADHD.
 
 Both Addrell and Modafinil helps to treat narcolepsy as well.
 
+### Modafinil or Armodafinil
+
+## Dosage of drugs
+
+Dosage vary according to the severity of the condition for a given person and their age and response to varying doses.
+
+:::danger Abuse
+It is a very thin line distinction between street drugs ad drugs of treatment. So always be careful about stimulant medications as it can be habitual and have a potential of abuse.
+:::
+
+- As you use the drugs everyday they can be less effective over time.
+- It is ideal to use drugs along with behavioral exercises in order to actuate the neural circuits.
+
+## Side effects
+
+- Amphetamine can cause sexual side effects as they are vesoconstritors. Men will have trouble in achieving erections. This issue can also be seen in Cannabis users.
+
+All drugs carry cardiac effects as they increase the heart rate (constriction of blood vessels).
+
 ## Pharmaco-kinetics (Kinetics means movement)
 
 (This term means how the drug works.)
@@ -121,9 +142,18 @@ We should discourage the use of street drugs of any kind as there is nobody to r
 
 25-35% of college students and working professionals in US (in age between 17 t 35) use black market Addrell to function properly and focus on their daily life even though they are not diagnosed by ADHD. Now consumption of Addrelll without prescription is higher than the consumption of cannabis at age group of 17-30.
 
-### Nicotin and Caffine
+### Nicotine and Caffeine
 
 Nicotine and Caffeine are also used in high amount for energy of focus, Nicotine should not be used due to high risk of cancer.
+
+:::tip Positives of Caffeine
+
+- As stimulant medication cause blood vessels to contract and increase blood pressure whereas caffeine increase blood flow which is good.
+  :::
+
+:::note Stress
+All our medication or drugs improve our focus by increase the stress level. So only use the amount you need.
+:::
 
 ## Case study on children
 
@@ -147,6 +177,14 @@ In this research Andrew Huberman came across a couple who are in close relations
 All these regarding food control are good but their effect on focus and attention is only modest, THey have only modulatory role like sleep in ADHD.
 :::
 
+### Phosphatidylserine
+
+- Recommended dosage: 200mg per day.
+- It is something like Omega-3.
+- It is a modulator in the brain.
+- Should improvements in focus on children on a clinical study.
+- Phosphatidylserine + Omega 3 helps a lot in improving ADHD condition.
+
 ## Behavioural changes to adapt
 
 Huberman suggest a book called **"Altered traits"**.
@@ -161,3 +199,45 @@ People with ADHD will have attentional blink which is a condition when you are i
 2. Closing the eyes and listening to your body, touch and breathing.
 3. Blink your eyes less.
    :::
+
+The above 3 techniques will help you make permanent fixes for your attention issues.
+
+### Perception of time in ADHD
+
+Dopamine is the one neuro-modulator thant blinks your eyes. Our brain's time perception has a relation to eye blinking. <strong style={{color:"red", background: "yellow"}}>More eye blinks then brain thinks more time has passed.</strong> It is a feedback mechanism of our brain.
+
+### Single point eye vision exercise
+
+A study conducted on children which improved the focus in children by making them look only a single target (eyes focused only one one location) revealed how we can improve our focus by looking a single point and increase focus and avoid distractions step by steps.
+These children were made to loose some energy by exercise before the focus training started.
+
+:::info
+All the stimulant drugs makes our eye blink less.
+:::
+
+### Exercise
+
+The above study on children revealed how much exercise aid in a person's focus and attention.
+
+<strong style={{color:"red", background: "yellow"}}>Morning, noon and evening exercise will help an individual in their focus and distraction avoidance. Energy loosing will help people focus better</strong>
+
+### Introspective awareness exercise
+
+_Ones awareness of their internal state such as heartbeat, breathing, contact of skin surface._
+
+People with ADHD may not have a good "introspective awareness". They can clearly hear these internal body changes but will not have a mentality to track it.
+
+There is an exercise that could improve the focus by increasing the introspective awareness.
+
+<strong style={{color:"red", background: "yellow"}}>A 17 minute (exact)introspective exercise have seen to gain improvements in one's ability to focus for large periods of time.</strong>
+
+## ADHD Chemicals - Dopamine, Norepinephrine, Serotonin and Acetylcholine
+
+- Dopamine
+- Norepinephrine
+- Serotonin
+- Acetylcholine
+
+All these chemicals play a vital role in cognetive focus.
+
+Some prescription drugs that improve these chemical. Explained in detail at [drugs section](#drugs) above.
