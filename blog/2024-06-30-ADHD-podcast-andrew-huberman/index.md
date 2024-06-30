@@ -69,24 +69,95 @@ This raises 2 questions in ADHD, whether #dopamine is not sufficiantly high enou
 
 ## Low dopamine in ADHD, Stimulant use and Abuse.
 
-In year 2015m a research paper came but in an excellent journal in Biological Psychary (Author name: Spencer). This paper normalises the fact of low dopamine hypothesis in ADHD.
+In year 2015m a research paper came but in an excellent journal in Biological Psychiatry (Author name: Spencer). This paper normalizes the fact of low dopamine hypothesis in ADHD.
 
-It explains when dopammine levels are too low in particular areas of the brain, it leads to unnecessary firing of the neurons in the brain which is unrelated to the task we are trying to do. It can be like an instrumental concert without a conductor.
+It explains when dopamine levels are too low in particular areas of the brain, it leads to unnecessary firing of the neurons in the brain which is unrelated to the task we are trying to do. It can be like an instrumental concert without a conductor.
 
-Even brfore such dopamine defecient hypothesis, in 1940s and 1960s we can see such people with ADHD tend to use recreational drugs or they tend to indulge in non-drug stimulants such as coffee, expresso or smoking half pack of cigarattes. Some others with access to street drugs they used cocaine, amphethamine etc.
+Even before such dopamine deficient hypothesis, in 1940s and 1960s we can see such people with ADHD tend to use recreational drugs or they tend to indulge in non-drug stimulants such as coffee, espresso or smoking half pack of cigarettes. Some others with access to street drugs they used cocaine, amphetamine etc.
 
 All these drugs will increase the levels of dopamine in the brain especially in the regions which regulate attention and task related and default mode networks.
 
-Some children who do not have acccess to any of these drugs can be seen easting too much sugary food, coke which creates a sudden rush in dopamine.This makes them able to calm themselves. But when children who do not have ADHD consumes this they will become hyperactive due to enormously high production of dopamine.
+Some children who do not have access to any of these drugs can be seen easting too much sugary food, coke which creates a sudden rush in dopamine.This makes them able to calm themselves. But when children who do not have ADHD consumes this they will become hyperactive due to enormously high production of dopamine.
 
 **"LOW LEVELS OF DOPAMINE IS THE MAIN ISSUE WITH PEOPLE WITH ADHD."**
 
 Thus giving dopamine energic compounds to people with ADHD will somehow increase the ability to focus.
 
-So major drugs developed and marketed by pharamaseutical companies are
+So major drugs developed and marketed by pharmaceutical companies are
 
 1. Ritalin
 2. Adderral
 3. Modafinil
 
 These all drugs will increase the levels of dopamine in the regions of brains that manages the 2 modes.
+
+### Ritalin
+
+- Ritalin is a stimulus prescribed for ADHD and narcolepsy (Condition in which people tend to fall asleep during the day time quite a lot, excessive day time sleepiness and also may sleep when they get excited).
+- Ritalin is the oldest drug in use.
+
+- Ritalin also called as **methylphenidate** [ METH-il-FEN-i-date ]
+
+### Addrell
+
+Addrell is now the most prescribed drug for treating ADHD.
+
+Both Addrell and Modafinil helps to treat narcolepsy as well.
+
+## Pharmaco-kinetics (Kinetics means movement)
+
+(This term means how the drug works.)
+
+All these drugs are share the almost same compounds as cocaine and meth which are greatly habit forming and abusive.
+They are not exactly the same as meth or cocaine but similar. Their net effect in the brain and body is the same which is to increase the dopamine but also the levels of neuro-modulators called epinephrine or neurotransmitter, also called as noradrenaline amd to some extend increase the levels of serotonin in the brain and blood.
+
+:::info
+**Serotine** is more about feeling calm and relaxed.
+:::
+
+It is good to prescribe stimulants early i life and it will be effective as neuroplasticity of brain decreases as we age.
+
+We should discourage the use of street drugs of any kind as there is nobody to regulate the dosage and also quality is not assured. Also we do not need such heavy dosage for an ADHD person.
+
+25-35% of college students and working professionals in US (in age between 17 t 35) use black market Addrell to function properly and focus on their daily life even though they are not diagnosed by ADHD. Now consumption of Addrelll without prescription is higher than the consumption of cannabis at age group of 17-30.
+
+### Nicotin and Caffine
+
+Nicotine and Caffeine are also used in high amount for energy of focus, Nicotine should not be used due to high risk of cancer.
+
+## Case study on children
+
+In this research Andrew Huberman came across a couple who are in close relationship with him. A child of them have ADHD and the parents have deep knowledge in ADHD. So Huberman asked some questions to them:
+
+1. Will you give Amphetamine to their kid ?
+   Answer from the couple was that they will use the lowest dosage required and moderate as they grow up which will help them learn attention. This will benefit the kid in a larger way.
+
+## Food control
+
+- Controlling allergic food like gluten, milk, sugar helps to control the hyper activity.
+- Elimination of simple sugars and high sugar are highly appreciated.
+- Avoiding all the food allergic is not ideal as it can cause severe auto-immune issues when consumed accidentally.
+
+### Omega 3 fatty acids
+
+- Getting **1000 mg** or more of Omega 3 fatty acids (fish oil), which known to have anti-depressant effects works better for people with ADHD as well.
+- It also benefits the immune system, cardio vascular system.
+
+:::info
+All these regarding food control are good but their effect on focus and attention is only modest, THey have only modulatory role like sleep in ADHD.
+:::
+
+## Behavioural changes to adapt
+
+Huberman suggest a book called **"Altered traits"**.
+
+People with ADHD will have attentional blink which is a condition when you are in a race for finding multiple things, you may involved in finding one of them but misses the second one. For e.e. reading a documentation and finding a single thing but misses others, this is because ADHD people are over focused in finding a particular piece of information. This is called as **attentional blinks** and it is more in ADHD people than in normal people.
+
+> _Over focusing on something and not able to realize other things._
+
+:::danger This attention blink can be scientifically regulated by:
+
+1. Changing the focus of pupil in the eyes.
+2. Closing the eyes and listening to your body, touch and breathing.
+3. Blink your eyes less.
+   :::
