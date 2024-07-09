@@ -1,6 +1,6 @@
 ---
 slug: adhd-andrew-huberman-podcast-summary
-title: Summary of ADHD podcast by Andrew Huberman
+title: ADHD and How any can improve their focus | Summary of podcast by Andrew Huberman
 authors: [hari]
 tags: [ADHD]
 ---
@@ -15,7 +15,7 @@ Video: [**ADHD & How Anyone Can Improve Their Focus| Youtube**](https://youtu.be
 ## How is ADHD ?
 
 People with ADHD have poor attention & high impulsivity.
-People with ADHD can have hyperfocus in things they really enjoy or intriged by but they cannot simple focus on things that don't want to do. In real life most of the things we do for living are not things we are interested to.
+People with ADHD can have hyper-focus in things they really enjoy or intrigued by but they cannot simple focus on things that don't want to do. In real life most of the things we do for living are not things we are interested to.
 
 ## Time perception
 
@@ -23,11 +23,11 @@ One of the major challenge ADHD people face is the time perception. This is the 
 
 ## Piling system
 
-ADHD people use a piling system for organising and most of the time it may not work for them.
+ADHD people use a piling system for organizing and most of the time it may not work for them.
 
 ## Working memory
 
-People with ADHD can have teriffic memory of the past events, upcoming events however one vital memory called working memory is not proper for them.
+People with ADHD can have terrific memory of the past events, upcoming events however one vital memory called working memory is not proper for them.
 
 Working memory is the ability to keep specific information online, to recycle it in your brain so that you can use it in immediate or short term. Example if someone verbally given their phone number and when you tries to type on your phone/ book you forget it immediately.
 
@@ -41,7 +41,7 @@ Proper production of dopamine will narrow our visual and auditory world.
 
 ## Neural circuits
 
-There are 2 main cirucuits w.r.t attention and dopammine in ADHD.
+There are 2 main circuits w.r.t attention and dopamine in ADHD.
 
 1. Default mode network
 2. Task Mode Network
@@ -54,7 +54,7 @@ There are 2 main cirucuits w.r.t attention and dopammine in ADHD.
 ### 2. Task mode Network
 
 - Network which is goal oriented. It is a different set of brain area from default mode Network.
-- It is also in prefrontal cortex but in diffent part to default mode network. It is at Medial Prefrontal Cortex (MPC in short, Front Centre part of the brain ).
+- It is also in prefrontal cortex but in different part to default mode network. It is at Medial Prefrontal Cortex (MPC in short, Front Centre part of the brain ).
 - MPC communicates with other parts of the brain mainly to suppress the impulses. It is shutting down your desire to stand up or scratch the side of the cheek.
 
 But there is communication btw task mode and default mode networks.
@@ -63,9 +63,9 @@ The two networks have a lot of communication in a neuro-typical person. But in a
 
 In a neuro-typical person the default mode and task mode networks are anti-correlated. That is they are opposing to each other to balance one another. But in a person with ADHD these 2 networks are co-related and they cannot control or balance each other.
 
-What #dopamine is doing in this context is that it is acting as a conductor in a musical concert which make sure which mode should be active at a particular time. That is dopamine make them anti-corelated and helps balance each other.
+What #dopamine is doing in this context is that it is acting as a conductor in a musical concert which make sure which mode should be active at a particular time. That is dopamine make them anti-correlated and helps balance each other.
 
-This raises 2 questions in ADHD, whether #dopamine is not sufficiantly high enough levels or #dopamine conducting everything wrong.
+This raises 2 questions in ADHD, whether #dopamine is not sufficiently high enough levels or #dopamine conducting everything wrong.
 
 ## Low dopamine in ADHD, Stimulant use and Abuse.
 
@@ -121,7 +121,7 @@ It is a very thin line distinction between street drugs ad drugs of treatment. S
 
 ## Side effects
 
-- Amphetamine can cause sexual side effects as they are vesoconstritors. Men will have trouble in achieving erections. This issue can also be seen in Cannabis users.
+- Amphetamine can cause sexual side effects as they are veso-constrictors. Men will have trouble in achieving erections. This issue can also be seen in Cannabis users.
 
 All drugs carry cardiac effects as they increase the heart rate (constriction of blood vessels).
 
@@ -140,7 +140,7 @@ It is good to prescribe stimulants early i life and it will be effective as neur
 
 We should discourage the use of street drugs of any kind as there is nobody to regulate the dosage and also quality is not assured. Also we do not need such heavy dosage for an ADHD person.
 
-25-35% of college students and working professionals in US (in age between 17 t 35) use black market Addrell to function properly and focus on their daily life even though they are not diagnosed by ADHD. Now consumption of Addrelll without prescription is higher than the consumption of cannabis at age group of 17-30.
+25-35% of college students and working professionals in US (in age between 17 t 35) use black market Addrell to function properly and focus on their daily life even though they are not diagnosed by ADHD. Now consumption of Addrell without prescription is higher than the consumption of cannabis at age group of 17-30.
 
 ### Nicotine and Caffeine
 
@@ -238,6 +238,77 @@ There is an exercise that could improve the focus by increasing the introspectiv
 - Serotonin
 - Acetylcholine
 
-All these chemicals play a vital role in cognetive focus.
+All these chemicals play a vital role in coˀˀgnitive focus.
 
 Some prescription drugs that improve these chemical. Explained in detail at [drugs section](#drugs) above.
+
+Some other drugs
+
+- Modafinil and Armodafinil
+- Alpha GPC
+- L - Tyrosine
+- Racetams and Noopept
+
+### Modafinil and Armodafinil
+
+- Modafinil is highly expensive (800 to 1000 dollars per month).
+- Armodafinil is a lesser expensive version of modafinil.
+
+Unlike Ritalin & Addrell, Modafinil & Armodafinil are weak dopamine re-update inhibitors and thats how they lead ti increase in dopamine.
+Modafinil helps to sustain a lower dose of dopamine in brain for a longer time.
+
+Modafinil & Armodafinil also affects other systems such as orexin system (it regulates hunger) and also regulate sleep.
+
+#### Personal experience of Huberman on Armodafinil
+
+Huberman took a flight to take a lecture but he had a headache due to jet lag. He was prescribed Armodafinil and he took very small dose. He took a straight four hour lecture without break due to that drug and he was so pumped up, so that a college needed to tell him most of the people got out of room due to time duration and he need to take a break. He mention this an insane scenario.
+
+### Alpha GPC on Acetylcholine
+
+Acetylcholine is a neurotransmitter that are at the neurons to muscle connections called neuromuscular connections which helps movements of muscles of all kind.
+
+Acetylcholine is produced in two sites of the brain
+
+1. Projections in the brain stem, like a sprinkle system which release Acetylcholine.
+2. Set of neurons at the basel forebrain called Nucleus Basalis which simply means nucleus of the base.
+
+Drugs that enhances the production of Acetylcholine improves focus and cognition. One such drug/compound is Alpha GPC.
+
+Dosage of Alpha GPC:
+
+- Lower 200 to 300mg
+- Higher 1200mg
+
+### L -Tyrosine
+
+It is an amino acid which is pre-cursor to the dopamine. L - Tyrosine helps production of dopamine, They are fairly long lived and it helps in focus but the dosage is very tricky.
+
+It sometimes makes us euphoric and alert despite taking a regular dosage.
+
+Dosage varies from 100mg to 1200mg. It should be used with caution.
+
+### Racetams and Noopept
+
+It is illegal in some countries. It can be seen in gray markets.
+
+They have different margins of safety. you should definitely consult a doctor for this.
+
+Noopept is a Recetam, it taps into the Cholinergic system, the Acetylcholine system which is very similar to Alpha-GPC but shown a heightened level of cognitive capacity.
+
+For people involved in head trauma or injury have shown high efficacy with Recetams.
+
+# Smartphones and ADHD
+
+Smartphone grabs everyone's attention into a small box, there are millions of attention windows, frequent content switching in phone is really dangerous for ADHD people.
+
+## Scientific Study
+
+A broad study proposes a finding:
+<strong style={{color:"red"}}>
+An adult should restrict daily phone usage under 60 minutes a day.
+</strong>
+The study took data from over 700 individuals with smartphones, it is a large sample size, so the findings are fairly accurate
+
+<p style={{color:"red", background: "yellow"}}>
+**Brain is not really good with context switching, context diminishes our capability to do meaningful work of any kind.**
+</p>
