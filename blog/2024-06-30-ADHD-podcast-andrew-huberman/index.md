@@ -297,11 +297,11 @@ Noopept is a Recetam, it taps into the Cholinergic system, the Acetylcholine sys
 
 For people involved in head trauma or injury have shown high efficacy with Recetams.
 
-# Smartphones and ADHD
+## Smartphones and ADHD
 
 Smartphone grabs everyone's attention into a small box, there are millions of attention windows, frequent content switching in phone is really dangerous for ADHD people.
 
-## Scientific Study
+### Scientific Study
 
 A broad study proposes a finding:
 <strong style={{color:"red"}}>
