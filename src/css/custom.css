@@ -17,6 +17,8 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
   /* Fonts */
+  --default-font-family: "Geist", sans-serif;
+  --default-heading-font-family: "Geist", sans-serif;
   --default-font-size: clamp(0.75rem, 0.875rem, 1rem);
 
   /* Border */
@@ -39,11 +41,11 @@
 }
 
 html {
-  font-family: "Geist";
+  font-family: var(--default-font-family);
   font-size: clamp(0.75rem, 0.875rem, 1rem);
 }
 body {
-  font-family: "Geist";
+  font-family: var(--default-font-family);
   font-weight: 500;
   /* letter-spacing: 0.0025em; */
   line-height: 180%;
@@ -57,7 +59,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Helvetica Neue";
+  font-family: var(--default-heading-font-family);
   line-height: 140%;
 }
 

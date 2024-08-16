@@ -156,7 +156,11 @@ const config = {
         respectPrefersColorScheme: false,
       },
     }),
-  stylesheets: ["/custom-css/footer.css", "/custom-css/article.css"],
+  stylesheets: [
+    "/custom-css/footer.css",
+    "/custom-css/article.css",
+    "/custom-css/fonts.css",
+  ],
 };
 
 export default config;
