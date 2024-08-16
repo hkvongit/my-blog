@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
+  --ifm-color-primary: #0049d7;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -15,10 +15,19 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  /* Fonts */
+  --default-font-size: clamp(0.75rem, 0.875rem, 1rem);
+
+  /* Border */
+  --default-border: 1px solid rgba(0, 0, 0, 0.05);
+
+  /* Border radius */
+  --default-border-radius: 0.75rem;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -28,3 +37,73 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+html {
+  font-family: "Geist";
+  font-size: clamp(0.75rem, 0.875rem, 1rem);
+}
+body {
+  font-family: "Geist";
+  font-weight: 500;
+  /* letter-spacing: 0.0025em; */
+  line-height: 180%;
+  color: rgba(0, 0, 0, 0.8);
+  background-color: #f7f7f7;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Helvetica Neue";
+  line-height: 140%;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: x-large !important;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 1.5rem !important;
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 1.25 rem !important;
+}
+
+h4,
+h5,
+h6 {
+  font-size: 1 rem !important;
+}
+
+/* [START] NAV BAR - STYLING ============================== */
+
+.navbar {
+  width: 100%;
+  padding-left: 6%;
+  padding-right: 6%;
+  box-shadow: none;
+  border-bottom: var(--default-border);
+}
+.navbar__link {
+  font-size: clamp(0.75rem, 0.875rem, 1rem);
+  letter-spacing: 0.005em;
+  color: rgba(0, 0, 0, 0.8);
+  font-weight: 600;
+}
+
+.navbar__link:hover {
+  text-decoration: underline;
+}
+
+.navbar__link--active {
+  color: #0049d7 !important;
+}
+
+/* [END] NAV BAR - STYLING ============================== */

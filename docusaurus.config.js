@@ -50,8 +50,8 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          // editUrl:
+          //   "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Hari's blog",
+        title: "",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
@@ -78,7 +78,10 @@ const config = {
           //   position: "left",
           //   label: "Tutorial",
           // },
+          { to: "/home", label: "Home", position: "left" },
           { to: "/blog", label: "Blog", position: "left" },
+          { to: "/works", label: "Works", position: "left" },
+          { to: "/design-library", label: "Design Library", position: "left" },
           {
             href: "https://github.com/hkvongit",
             label: "My GitHub",
@@ -102,17 +105,21 @@ const config = {
             title: "Social Media",
             items: [
               {
+                label: "Linked In",
+                to: "https://www.linkedin.com/in/harikrishnan-hkv-844700000/",
+              },
+              {
                 label: "Instagram",
-                href: "https://www.instagram.com/hkv_anitha",
+                to: "https://www.instagram.com/hkv_anitha",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/hkvanitha",
+                to: "https://twitter.com/hkvanitha",
               },
             ],
           },
           {
-            title: "More",
+            title: "Contact",
             items: [
               // {
               //   label: "Blog",
@@ -120,18 +127,36 @@ const config = {
               // },
               {
                 label: "GitHub",
-                href: "https://github.com/hkvongit",
+                to: "https://github.com/hkvongit",
+              },
+              {
+                label: "Whatsapp",
+                to: "https://wa.me/+91-9496395582",
+              },
+              {
+                label: "hari.odessey@gmail.com",
+                to: "mailto:hari.odessey@gmail.com",
+              },
+              {
+                label: "+91 94963 95582",
+                to: "tel:+91-94963-95582",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Harikrishnan, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Harikrishnan. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
     }),
+  stylesheets: ["/custom-css/footer.css", "/custom-css/article.css"],
 };
 
 export default config;

@@ -1,0 +1,9 @@
+article {
+  background-color: white;
+  padding: 5%;
+  border-radius: var(--default-border-radius);
+  border: var(--default-border);
+}
+article.margin-bottom--xl {
+  margin-bottom: 2rem !important;
+}

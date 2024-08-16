@@ -1,0 +1,23 @@
+.footer {
+  background-color: white !important;
+  border-top: var(--default-border);
+}
+@media only screen and (min-width: 997px) {
+  .footer__links {
+    margin-bottom: 4rem !important;
+  }
+}
+
+.footer__link-item {
+  font-size: var(--default-font-size);
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.footer__link-item:hover {
+  color: var(--ifm-color-primary) !important;
+}
+
+.footer__copyright {
+  font-size: 0.75rem;
+}
