@@ -78,10 +78,10 @@ const config = {
           //   position: "left",
           //   label: "Tutorial",
           // },
-          { to: "/home", label: "Home", position: "left" },
+          { to: "/404.html", label: "Home", position: "left" },
           { to: "/blog", label: "Blog", position: "left" },
-          { to: "/works", label: "Works", position: "left" },
-          { to: "/design-library", label: "Design Library", position: "left" },
+          { to: "/404.html", label: "Works", position: "left" },
+          { to: "/404.html", label: "Design Library", position: "left" },
           {
             href: "https://github.com/hkvongit",
             label: "My GitHub",
@@ -95,10 +95,10 @@ const config = {
           {
             title: "Content",
             items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
+              { to: "/404.html", label: "Home" },
+              { to: "/blog", label: "Blog" },
+              { to: "/404.html", label: "Works" },
+              { to: "/404.html", label: "Design Library" },
             ],
           },
           {
