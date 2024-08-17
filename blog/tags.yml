@@ -18,3 +18,34 @@ ADHD:
   label: ADHD
   permalink: /adhd
   description: Tag for collecting ADHD related articles.
+
+# Web development related tags
+web-dev:
+  label: web-dev
+  permalink: /web-dev
+  description: Tag for collecting web development related articles.
+html:
+  label: html
+  permalink: /html
+  description: Tag for collecting HTML related articles.
+css:
+  label: css
+  permalink: /css
+react:
+  label: react
+  permalink: /react
+laravel:
+  label: laravel
+  permalink: /laravel
+next-js:
+  label: next-js
+  permalink: /next-js
+strapi:
+  label: strapi
+  permalink: /strapi
+php:
+  label: php
+  permalink: /php
+js:
+  label: js
+  permalink: /js
