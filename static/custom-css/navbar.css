@@ -1,0 +1,38 @@
+/* [START] NAV BAR - STYLING ============================== */
+
+.navbar {
+  width: 100% !important;
+  padding-left: 6% !important;
+  padding-right: 6% !important;
+  box-shadow: none !important;
+  border-bottom: var(--default-border) !important;
+}
+.navbar__link {
+  font-size: clamp(0.75rem, 0.875rem, 1rem) !important;
+  letter-spacing: 0.005em !important;
+  color: rgba(0, 0, 0, 0.8) !important;
+  font-weight: 500 !important;
+}
+
+.navbar__link:hover {
+  text-decoration: underline !important;
+  color: var(--ifm-color-primary) !important;
+}
+
+.navbar__link--active {
+  color: var(--ifm-color-primary) !important;
+}
+
+
+
+/* [END] NAV BAR - STYLING ============================== */
+
+
+
+/* [START] PAGINATION - STYLING ============================== */
+
+.pagination-nav__link{
+  background-color: white !important;
+}
+
+/* [END] PAGINATION - STYLING ============================== */

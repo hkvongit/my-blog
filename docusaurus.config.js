@@ -144,7 +144,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Harikrishnan. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Harikrishnan. Built with <a href="https://docusaurus.io/docs/3.4.0" target="_blank">Docusaurus</a>.`,
       },
       prism: {
         theme: prismThemes.github,
@@ -157,6 +157,7 @@ const config = {
       },
     }),
   stylesheets: [
+    "/custom-css/navbar.css",
     "/custom-css/footer.css",
     "/custom-css/article.css",
     "/custom-css/fonts.css",

@@ -75,7 +75,7 @@ It is a no code website builder which I love to work.
 - **Backend**: Node js or Go-lang. For high scalability use AWS Lambda functions. AWS S3 for photos, videos, files (object storage).
 - **Hosting Services**: AWS - Amplify (frontend hosting), Rest API Gateway.
   :::danger
-  Always set billing warning in AWS otherwise you may need to sell your house to pay the bill if some attacker wants to do some fun or you the app got viral at a moment.
+  Always set billing warning in AWS otherwise you may need to sell your house to pay the bill if some attacker wants to do some fun or your app got viral at a moment.
   :::
 
 Thats it, you don't want to read my boring monologue. You can resume watching your cat videos now.
@@ -175,4 +175,4 @@ I think Adonis is the unsung hero in the Javascript Eco-system.
 ## What really matters ?
 
 This is the only question I ask when communicating with my client and team.
-Choose the framework for the needs, don't be a fan of a language or framework. It all about making the client and their customers happy.
+Choose the framework for the needs, don't be a fan of a language or framework. Its all about making the client and their customers happy.

@@ -83,29 +83,3 @@ h5,
 h6 {
   font-size: 1 rem !important;
 }
-
-/* [START] NAV BAR - STYLING ============================== */
-
-.navbar {
-  width: 100%;
-  padding-left: 6%;
-  padding-right: 6%;
-  box-shadow: none;
-  border-bottom: var(--default-border);
-}
-.navbar__link {
-  font-size: clamp(0.75rem, 0.875rem, 1rem);
-  letter-spacing: 0.005em;
-  color: rgba(0, 0, 0, 0.8);
-  font-weight: 600;
-}
-
-.navbar__link:hover {
-  text-decoration: underline;
-}
-
-.navbar__link--active {
-  color: #0049d7 !important;
-}
-
-/* [END] NAV BAR - STYLING ============================== */
