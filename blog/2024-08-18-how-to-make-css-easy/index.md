@@ -3,7 +3,7 @@ slug: how-to-make-css-easy
 title: How to make css easy ?
 authors: ["hari"]
 tags: [web-dev, html, css, js]
-draft: true
+# draft: true
 # draft will hide this from list of blog
 ---
 
