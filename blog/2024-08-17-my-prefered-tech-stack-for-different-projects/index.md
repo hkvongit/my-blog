@@ -21,7 +21,7 @@ I want to explain my preferred stacks for
 
 ## Short answer
 
-If you don't want to read this long article here is my choices:
+If you don't want to read this long article here are my choices:
 
 ### Must needed for any project
 
