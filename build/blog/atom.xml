@@ -40,7 +40,7 @@
 <p>I prefer Javascript based frameworks now. Since it is the only programming language we can use to build browser applications, instead of learning multiple languages to build web based things I prefer Javascript. Javascript was the first programming language I used for work and I believe it was the sole reason I became resistant to learn any other language and I know it is bad. But I learned some other languages and tried some frameworks as well.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="any-problem-with-javascript-">Any problem with Javascript ?<a class="hash-link" aria-label="Direct link to Any problem with Javascript ?" title="Direct link to Any problem with Javascript ?" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#any-problem-with-javascript-">​</a></h3>
 <p>Yes, since js is dynamically typed I make a lot of mistakes and it gives critical bugs in live web application/sites. Thus personally I do everything in Typescript. It helps me to do programming relatively safer.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="any-problem-with-typescript-">Any problem with Typescript ?<a class="hash-link" aria-label="Direct link to Any problem with Typescript ?" title="Direct link to Any problem with Typescript ?" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#any-problem-with-typescript-">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="any-problem-with-typescript-">Any problem with Typescript ?<a class="hash-link" aria-label="Direct link to Any problem with Typescript ?" title="Direct link to Any problem with Typescript ?" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#any-problem-with-typescript-">​</a></h3>
 <p>Yes definitely, since you need to mention all parameter types, it frustrates me a lot. Instead of writing logic for my application I end up doing this finding and writing types for different params for any 3rd party library I use. One thing I learned later is giving type <code>any</code> is of no problem in case I am in a hurry to deliver my work.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="adonis-js">Adonis JS<a class="hash-link" aria-label="Direct link to Adonis JS" title="Direct link to Adonis JS" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#adonis-js">​</a></h3>
 <ul>
@@ -121,6 +121,7 @@ It was a good experience learning python and django. Problems I faced were:</li>
         <category label="next-js" term="next-js"/>
         <category label="strapi" term="strapi"/>
         <category label="php" term="php"/>
+        <category label="ruby" term="ruby"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to make css easy ?]]></title>
