@@ -4,10 +4,121 @@
         <title>Hari's world Blog</title>
         <link>https://my-blog-pu0.pages.dev/blog</link>
         <description>Hari's world Blog</description>
-        <lastBuildDate>Sun, 18 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Choose programming frameworks based on needs]]></title>
+            <link>https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs</link>
+            <guid>https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs</guid>
+            <pubDate>Sun, 08 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[There are hundreds of programming frameworks, but we need to select the one for our needs. Here I explain why I choose certain frameworks for certain needs based on my needs and philosophy.]]></description>
+            <content:encoded><![CDATA[<p>There are hundreds of programming frameworks, but we need to select the one for our needs. Here I explain why I choose certain frameworks for certain needs based on my needs and philosophy.</p>
+<p>On my previous blog posts I have mentioned that I have ADHD and neck pain, these conditions makes me a lot different from the my peers. My main problems with this condition are:</p>
+<ul>
+<li>Cannot sit and work for more than 30 minutes at a single shot. I need to take breaks for avoiding neck pain.</li>
+<li>Lack of motivation on doing a long term task like a large project.</li>
+<li>Needs clear vision before starting anything long term.</li>
+<li>Cannot remember lot of things at once due to a short memory capacity (low RAM but hard disk is good 😁).</li>
+<li>Lack of focus and making the mistakes that no others obviously do in their work.</li>
+</ul>
+<p>For all these, I need to get a different approach in my work whether it from choosing the right framework to the time I wake in the morning.</p>
+<p>For anyone having ADHD or similar condition I think this blog will give some insights.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="who-i-am-">Who I am ?<a class="hash-link" aria-label="Direct link to Who I am ?" title="Direct link to Who I am ?" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#who-i-am-">​</a></h2>
+<ul>
+<li>Freelancer making websites from landing pages, e-commerce websites, small softwares for clients and myself.</li>
+<li>Graphic designer doing social media ads to ui-ux design.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-am-i-looking-in-a-programming-framework-">What am I looking in a programming framework ?<a class="hash-link" aria-label="Direct link to What am I looking in a programming framework ?" title="Direct link to What am I looking in a programming framework ?" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#what-am-i-looking-in-a-programming-framework-">​</a></h2>
+<ul>
+<li><strong>Batteries must be included</strong>: I am not that good in finding 3rd party packages for each projects I do.</li>
+<li><strong>Easy to write and deploy</strong>: I cannot stand in front of languages like Java or C# or C++. I believe, I am not an intelligent person to write such great code and also I need to do program quickly so that I can spend time in designing or spend time with my family and friends.</li>
+<li><strong>Convention over configuration</strong>: It should be easy to configure and follow the conventions.</li>
+<li><strong>Very less complexity</strong>: My ADHD brain always likes simple things which are understandable to a 10 year old.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-programming-framework-i-use-currently-">What programming framework I use currently ?<a class="hash-link" aria-label="Direct link to What programming framework I use currently ?" title="Direct link to What programming framework I use currently ?" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#what-programming-framework-i-use-currently-">​</a></h2>
+<p>I prefer Javascript based frameworks now. Since it is the only programming language we can use to build browser applications, instead of learning multiple languages to build web based things I prefer Javascript. Javascript was the first programming language I used for work and I believe it was the sole reason I became resistant to learn any other language and I know it is bad. But I learned some other languages and tried some frameworks as well.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="any-problem-with-javascript-">Any problem with Javascript ?<a class="hash-link" aria-label="Direct link to Any problem with Javascript ?" title="Direct link to Any problem with Javascript ?" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#any-problem-with-javascript-">​</a></h3>
+<p>Yes, since js is dynamically typed I make a lot of mistakes and it gives critical bugs in live web application/sites. Thus personally I do everything in Typescript. It helps me to do programming relatively safer.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="any-problem-with-typescript-">Any problem with Typescript ?<a class="hash-link" aria-label="Direct link to Any problem with Typescript ?" title="Direct link to Any problem with Typescript ?" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#any-problem-with-typescript-">​</a></h2>
+<p>Yes definitely, since you need to mention all parameter types, it frustrates me a lot. Instead of writing logic for my application I end up doing this finding and writing types for different params for any 3rd party library I use. One thing I learned later is giving type <code>any</code> is of no problem in case I am in a hurry to deliver my work.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="adonis-js">Adonis JS<a class="hash-link" aria-label="Direct link to Adonis JS" title="Direct link to Adonis JS" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#adonis-js">​</a></h3>
+<ul>
+<li><a href="https://adonisjs.com/" target="_blank" rel="noopener noreferrer">Adonis js</a> is the only battery included fullstack framework in the typescript ecosystem. It is reliable. It has lot of get go features. It helps me avoid finding the next best 3rd party library for lots of use cases.</li>
+<li>It has a very good documentation.</li>
+<li>I prefer to use it whenever a product idea comes to me via client or myself.</li>
+<li>Frankly you don't need adonis for a simple landing or e-commerce website.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cms">CMS<a class="hash-link" aria-label="Direct link to CMS" title="Direct link to CMS" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#cms">​</a></h3>
+<p>For some simple content management system I prefer to use Strapi CMS or Directus. If you are a fullstack developer who is working alone, it will be handy to develop websites ultra fast for your clients. I prefer Directus over Strapi due to the their philosophy. Strapi have a buggy documentation. Both Directus and Strapi are headless CMS.</p>
+<p>If I use a headless CMS, I use Next.js for building frontend for better SEO and to use client side interactive react js packages for visually appealing UIs.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="did-i-tried-any-other-frameworks-">Did I tried any other frameworks ?<a class="hash-link" aria-label="Direct link to Did I tried any other frameworks ?" title="Direct link to Did I tried any other frameworks ?" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#did-i-tried-any-other-frameworks-">​</a></h2>
+<p>Yes. I tried:</p>
+<ol>
+<li>Laravel (PHP)</li>
+<li>Ruby on rails</li>
+<li>Django with Python</li>
+</ol>
+<p>These three are very good frameworks but for me there were issues in using it. It is only my problems. Thousands of developer use this frameworks daily to ship great projects.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="my-problems-with-">My problems with :<a class="hash-link" aria-label="Direct link to My problems with :" title="Direct link to My problems with :" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#my-problems-with-">​</a></h3>
+<ol>
+<li><strong>Laravel</strong>: Syntax of PHP was little difficult for me and suggestions in vscode was not that great. As a typescript developer I missed it.</li>
+<li><strong>Ruby on rails</strong>: I am a fan of DHH (founder of Ruby). His numerous philosophies influence me.</li>
+</ol>
+<ul>
+<li>
+<ul>
+<li>Rails is a beautiful languages but it lacks IDE support (no code suggestion, intellisense), I tried setting up it but failed.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Ruby also got very less vacancies in tech and hence very less people learning it. If I needed some additional help from a freelancer, it is extremely difficult to find such a person.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>I started making lot of silly mistakes on writing ruby due to my condition and lack of strict types.</li>
+</ul>
+</li>
+</ul>
+<ol start="3">
+<li><strong>Django with Python</strong>
+It was a good experience learning python and django. Problems I faced were:</li>
+</ol>
+<ul>
+<li>
+<ul>
+<li>I make silly mistakes due to lack of strictness.</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>I was not able to find a good CMS with it. Lot of my freelance work requires a CMS.</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion" href="https://my-blog-pu0.pages.dev/blog/choose-programming-frameworks-based-on-needs#conclusion">​</a></h2>
+<p>After all these research I find out:</p>
+<ul>
+<li>No framework is perfect and lot of great developers love their stack for different reasons.</li>
+<li>We should make something useful for our clients and ourselves rather than finding the best thing.</li>
+<li>Javascript ecosystem is messed up by the VC funded startups and everyday they launch new tools with no proper vision or philosophy. They change the way we use programs now and then for making us use their infrastructure.They just needed to make great money by making ourselves use their proprietary cloud system. I don't want to bite it. Vercel with Next.js is an example for this. I loved Next.js initially but their approach with app router got me thinking why these people keep changing standards.</li>
+<li>My conditions are different than most others, so I am the person who need to setup a simple and maintainable stack for my use cases.</li>
+<li>I am a <a href="https://x.com/dhh" target="_blank" rel="noopener noreferrer">DHH</a> fan now but I use my sense before agreeing to his ideas. I gone through his talks and articles during learning <strong>Ruby on Rails</strong>. He taught me <em>simplicity is derived by hard work and passion</em>. Most of the things we see as <strong>simple</strong> where built above some serious thinking.</li>
+</ul>]]></content:encoded>
+            <category>web-dev</category>
+            <category>html</category>
+            <category>css</category>
+            <category>js</category>
+            <category>ts</category>
+            <category>react</category>
+            <category>laravel</category>
+            <category>next-js</category>
+            <category>strapi</category>
+            <category>php</category>
+        </item>
         <item>
             <title><![CDATA[How to make css easy ?]]></title>
             <link>https://my-blog-pu0.pages.dev/blog/how-to-make-css-easy</link>
