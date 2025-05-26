@@ -1,4 +1,15 @@
-# Website
+## How to update the live site.
+
+- **Write your article/blog inside the /blog directory.**
+- **Commit the changes.**
+- **Generate the build.** Currently cloudflare will not auto build, so we need to build from our own and update the file on GitHub. Whenever there is a new commit happened to the build, cloudflare will show the changes in the live site.
+- **Push the changes to Github remote repository.**
+
+## Live site address
+
+[https://my-blog-pu0.pages.dev/blog](https://my-blog-pu0.pages.dev/blog)
+
+## Thanks to Docusaurus
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
