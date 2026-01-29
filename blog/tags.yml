@@ -24,6 +24,14 @@ web-dev:
   label: web-dev
   permalink: /web-dev
   description: Tag for collecting web development related articles.
+product-management:
+  label: product-management
+  permalink: /product-management
+  description: Tag for collecting web development related articles.
+technical-leadership:
+  label: technical-leadership
+  permalink: /technical-leadership
+  description: Tag for collecting web development related articles.
 html:
   label: html
   permalink: /html
@@ -49,3 +57,18 @@ php:
 js:
   label: js
   permalink: /js
+ts:
+  label: ts
+  permalink: /ts
+node-js:
+  label: node-js
+  permalink: /node-js
+  description: Articles related to Node.js runtime and ecosystem.
+vs-code:
+  label: vs-code
+  permalink: /vs-code
+  description: Tips, tricks, and configurations for Visual Studio Code.
+debugging:
+  label: debugging
+  permalink: /debugging
+  description: Techniques and tools for debugging code.
