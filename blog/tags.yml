@@ -72,3 +72,8 @@ debugging:
   label: debugging
   permalink: /debugging
   description: Techniques and tools for debugging code.
+obsidian:
+  label: obsidian
+  permalink: /obsidian
+  description: Obsidian.md help notes.
+
